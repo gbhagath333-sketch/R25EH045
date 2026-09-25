@@ -8,3 +8,4 @@ This repository contains my learning and development work covering Git, GitHub, 
 - Git and GitHub workflow practice
 - Node.js and npm setup
 - API testing with Postman
+- GitHub Pages portfolio deployment
