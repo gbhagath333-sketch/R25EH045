@@ -1,1 +1,2 @@
 Project learning notes and development progress.
+Git and GitHub workflow practice.
